@@ -1,7 +1,7 @@
 ### Hi there, I'm Dan. 👋
 Thanks for visiting.
 
-
+I'm on my way to a profesional career in software development. Coming from an eclectic background of creative thinking and problem solving, foreign travel, language study, art, and caregiving gives me a diverse background of experience to call upon to solve the challenges of the future.
 
 ### I’m currently working on...
 I'm currently advancing my skills based in JavaScript, Algorithms, Object-Oriented Programming, Design Patterns, Unit Testing, HTML / CSS, JQuery, Bootstrap, AJAX, React, JSX, REST, NPM, and AWS.
@@ -10,7 +10,7 @@ I'm currently advancing my skills based in JavaScript, Algorithms, Object-Orient
 I'm studying JavaScript, React.js and Software Development on the Front End right now.
 
 ### Ask me about ...
-If you have questions why I did what I have done... let me know. If you are curious about bootcamps and tutoring I have had  ask away.
+If you have questions on why I wrote my code the way that I did let me know. If you are curious about the bootcamps or tutoring that I have had, please ask away.
 
 ### How to reach me ...
 Please find me on LinkedIn.
