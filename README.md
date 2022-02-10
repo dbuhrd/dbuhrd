@@ -1,11 +1,31 @@
 ### Hi there, I'm Dan. 👋
 Thanks for visiting.
+
+
+
+### I’m currently working on...
+I'm currently advancing my skills based in JavaScript, Algorithms, Object-Oriented Programming, Design Patterns, Unit Testing, HTML / CSS, JQuery, Bootstrap, AJAX, React, JSX, REST, NPM, and AWS.
+
+### I’m currently learning...
+I'm studying JavaScript, React.js and Software Development on the Front End right now.
+
+### Ask me about ...
+If you have questions why I did what I have done... let me know. If you are curious about bootcamps and tutoring I have had  ask away.
+
+### How to reach me: ...
+Please find me on LinkedIn.
+
+### Fun fact: ...
+I lived in Asia for 15 years.
+
+### Secret fear: ...
+That I'll forever be a NOVICE surfer.
 <!--
 **dbuhrd/dbuhrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on advancing my skills based in JavaScript, Algorithms, Object-Oriented Programming, Design Patterns, Unit Testing, HTML / CSS, JQuery, Bootstrap, AJAX, React, JSX, REST, NPM, and AWS.
+
 - 🌱 I’m currently learning JavaScript, React.js and Software Development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
